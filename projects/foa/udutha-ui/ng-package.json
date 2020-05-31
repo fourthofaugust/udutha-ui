@@ -1,0 +1,9 @@
+{
+  "$schema": "../../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../../dist/foa/udutha-ui",
+  "lib": {
+    "entryFile": "src/public-api.ts",
+    "styleIncludePaths": ["./src/lib/styles/udutha.scss"]
+  },
+  "assets": ["./src/lib/styles/udutha.scss"]
+}
