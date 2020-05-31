@@ -1,4 +1,4 @@
-# Udutha UI 
+# Udutha UI
 
 Udutha UI is an open source [Angular v9](https://github.com/angular) component library based on [Vanilla Framework](https://vanillaframework.io/) by [Canonical](https://canonical.com/).
 
@@ -52,3 +52,4 @@ If you find a bug or want to request a new feature, please open a [GitHub issue]
 ## License
 
 MIT
+

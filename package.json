@@ -1,6 +1,6 @@
 {
-  "name": "@foa/udutha-ui",
-  "version": "1.0.0",
+  "name": "@fourthofaugust/udutha-ui",
+  "version": "1.0.7",
   "description": "a set of angular components built using vanilla-framework css by canonical",
   "repository": {
     "type": "git",
@@ -26,6 +26,7 @@
     "udutha",
     "udutha ui"
   ],
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start:sandbox": "npm run build:prod-lib && ng serve dev",
@@ -37,7 +38,6 @@
     "lint:fix-sandbox": "ng lint dev --fix",
     "clean": "rimraf dist"
   },
-  "license": "MIT",
   "dependencies": {
     "@angular/animations": "~9.1.9",
     "@angular/common": "~9.1.9",
