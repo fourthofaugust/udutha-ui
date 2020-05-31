@@ -32,7 +32,7 @@ Udutha UI is an open source [Angular v9](https://github.com/angular) component l
 3. Add the following file to the styles array in `angular.json`
     ```javascript
      "styles": [
-               "../node_modules/@fourthofaugust/udutha-ui/src/lib/styles/udutha.scss"
+               "node_modules/@fourthofaugust/udutha-ui/src/lib/styles/udutha.scss"
            ]
     ```
 
